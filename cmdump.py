@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __author__ = 'Kiyoshi Mizumaru'
-__email__ = 'maru@cloudera.com'
+__email__ = 'kiyoshi.mizumaru@gmail.com'
 
 import argparse
 import json
