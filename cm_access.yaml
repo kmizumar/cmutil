@@ -1,0 +1,7 @@
+# target cluster info
+
+cm_host: cm.demo.dev
+cm_port: 7180
+
+username: admin
+password: admin
